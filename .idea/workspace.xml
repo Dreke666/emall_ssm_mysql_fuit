@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="emall_ssm_mysql:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cdb5b23-e482-4939-8ad3-c66876af1418" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/jdbc.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebContent/admin.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.classpath" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebContent/admin/header.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebContent/admin/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebContent/index/goods.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebContent/index/header.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/config/AdminInterceptor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/util/SafeUtil.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1bKxyIdi5ym87P77oOC3sW1Xj3t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/IdeaProjects/商城项目/6.水果商城 -emall/emall_ssm_mysql&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d41d8cd98f00b204e9800998ecf8427e&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\IdeaProjects\商城项目\6.水果商城 -emall\emall_ssm_mysql\WebContent\index\img" />
+      <recent name="D:\Desktop\IdeaProjects\商城项目\1.鲜花商城\emall_ssm_mysql\WebContent\index\img" />
+      <recent name="D:\Desktop\IdeaProjects\Complete_project\小卖部在线售货\emall_ssm_mysql\src" />
+      <recent name="D:\Desktop\项目模板\小卖部在线售货\emall_ssm_mysql\WebContent\WEB-INF" />
+      <recent name="D:\Desktop\项目模板\小卖部在线售货\emall_ssm_mysql\WebContent\index\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/emall_ssm_mysql_war_exploded/" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="emall_ssm_mysql:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/emall_ssm_mysql_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="cc6d1a80-3510-40e4-b195-cdee2bdc9bf4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55756" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="emall_ssm_mysql:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cdb5b23-e482-4939-8ad3-c66876af1418" name="Default Changelist" comment="" />
+      <created>1588394838536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588394838536</updated>
+      <workItem from="1588394843122" duration="17950000" />
+      <workItem from="1588513660377" duration="6971000" />
+      <workItem from="1627980684077" duration="4577000" />
+      <workItem from="1628133907198" duration="1187000" />
+      <workItem from="1628305992198" duration="823000" />
+      <workItem from="1628307555904" duration="2196000" />
+      <workItem from="1628390782926" duration="1512000" />
+      <workItem from="1628913337628" duration="54509000" />
+      <workItem from="1630822975692" duration="14449000" />
+      <workItem from="1631284206716" duration="25118000" />
+      <workItem from="1634124606765" duration="4091000" />
+      <workItem from="1635220699586" duration="658000" />
+      <workItem from="1635221639379" duration="9694000" />
+      <workItem from="1635757891718" duration="6256000" />
+      <workItem from="1636124544143" duration="608000" />
+      <workItem from="1636259967610" duration="2464000" />
+      <workItem from="1636371452331" duration="369000" />
+      <workItem from="1636517458139" duration="2670000" />
+      <workItem from="1637039964058" duration="5426000" />
+      <workItem from="1637478789582" duration="640000" />
+      <workItem from="1637588623298" duration="8891000" />
+      <workItem from="1638103861554" duration="179000" />
+      <workItem from="1638105731467" duration="493000" />
+      <workItem from="1638148653453" duration="2333000" />
+      <workItem from="1638239397006" duration="602000" />
+      <workItem from="1638512876302" duration="4647000" />
+      <workItem from="1638754212324" duration="646000" />
+      <workItem from="1638763227293" duration="2414000" />
+      <workItem from="1638836541265" duration="23000" />
+      <workItem from="1638836652027" duration="414000" />
+      <workItem from="1651593767412" duration="5935000" />
+      <workItem from="1652070093000" duration="691000" />
+      <workItem from="1652084169954" duration="1882000" />
+      <workItem from="1652175338188" duration="949000" />
+      <workItem from="1652244785856" duration="20000" />
+      <workItem from="1652344697599" duration="12000" />
+      <workItem from="1652442643687" duration="1190000" />
+      <workItem from="1652975165532" duration="599000" />
+      <workItem from="1653104665562" duration="1337000" />
+      <workItem from="1653381854003" duration="603000" />
+      <workItem from="1654352167331" duration="622000" />
+      <workItem from="1654585648737" duration="634000" />
+      <workItem from="1654658156378" duration="1291000" />
+      <workItem from="1654738188151" duration="1819000" />
+      <workItem from="1654821478331" duration="828000" />
+      <workItem from="1654927664429" duration="2036000" />
+      <workItem from="1654999341265" duration="932000" />
+      <workItem from="1655178718261" duration="1345000" />
+      <workItem from="1655201228062" duration="6885000" />
+      <workItem from="1655308568279" duration="32000" />
+      <workItem from="1656260928044" duration="1015000" />
+      <workItem from="1656262462212" duration="2189000" />
+      <workItem from="1656319156985" duration="1949000" />
+      <workItem from="1656339685903" duration="29000" />
+      <workItem from="1663899745011" duration="69000" />
+      <workItem from="1663899857904" duration="901000" />
+      <workItem from="1663904330228" duration="66000" />
+      <workItem from="1663904440878" duration="1706000" />
+      <workItem from="1664162098500" duration="931000" />
+      <workItem from="1664420990072" duration="1075000" />
+      <workItem from="1665156583389" duration="576000" />
+      <workItem from="1665239284801" duration="75000" />
+      <workItem from="1665303015288" duration="498000" />
+      <workItem from="1665829325065" duration="121000" />
+      <workItem from="1671549586440" duration="226000" />
+      <workItem from="1671703218742" duration="1707000" />
+      <workItem from="1673574483369" duration="662000" />
+      <workItem from="1673576125984" duration="630000" />
+      <workItem from="1675740818195" duration="288000" />
+      <workItem from="1677315093583" duration="1291000" />
+      <workItem from="1677330646243" duration="36000" />
+      <workItem from="1677912696530" duration="550000" />
+      <workItem from="1678163376189" duration="333000" />
+      <workItem from="1680060767382" duration="685000" />
+      <workItem from="1680098444152" duration="1213000" />
+      <workItem from="1680358654389" duration="664000" />
+      <workItem from="1683189171383" duration="1236000" />
+      <workItem from="1683537588252" duration="2376000" />
+      <workItem from="1684656269049" duration="755000" />
+      <workItem from="1684726501012" duration="33000" />
+      <workItem from="1698308521898" duration="1288000" />
+      <workItem from="1702385296471" duration="891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/emall_ssm_mysql$Tomcat_8_5_65.ic" NAME="Tomcat 8.5.65 Coverage Results" MODIFIED="1635221705327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
